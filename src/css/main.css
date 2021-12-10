@@ -10,7 +10,6 @@
 .graphic-container .flourish-chart,
 .graphic-container > iframe {
 	flex: 1;
-	max-width: 50%;
 }
 .graphic-container .flourish-chart:nth-of-type(1) {
 	margin-right: 0.5rem;
